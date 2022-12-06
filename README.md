@@ -1,0 +1,2 @@
+## Authentication web application
+This Python Flask & Flask SQLAlchemy app allows users to log in & log out with usage of unique usernames and passwords. Passwords contained in SQLite database are hashed with use of Bcrypt.
